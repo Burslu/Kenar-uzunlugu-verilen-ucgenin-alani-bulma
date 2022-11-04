@@ -1,0 +1,1 @@
+# Kenar-uzunlugu-verilen-ucgenin-alani-bulma
